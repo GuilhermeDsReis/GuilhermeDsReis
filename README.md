@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @GuilhermeDsReis
 - 👀 I’m interested in study programming and being a developer.
 - 🌱 I’m currently learning coding and programming.
-- 😄 Pronouns: He
 - ⚡ Fun fact: I love coffee.
 
 <!---
