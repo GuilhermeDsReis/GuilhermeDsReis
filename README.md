@@ -1,9 +1,13 @@
 <h1 style="margin-bottom=10px"> Olá! Sou o Guilherme Reis! </h1>
 
-<div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeDSReis&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=tokyonight"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeDSReis&layout=compact"/>
-</div>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GuilhermeDSReis&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeDSReis&layout=compact" />
+</a>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
