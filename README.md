@@ -1,6 +1,13 @@
 <h1 style="margin-bottom=10px"> Olá! Sou o Guilherme Reis! </h1>
 
+<div>
+  <p>👋 Hi, I’m @GuilhermeDsReis </p>
+  <p>👀 Eu estou interessado em me tornar um Dev Front-End </p>
+  <p>🌱 Estudando Desenvolvimento Web e Gestão de T.I. </p>
+  <p>⚡ Fun fact: Eu amo café. </p>
+</div>
 
+<h2>ESTATÍSTICAS:</h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GuilhermeDSReis&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=tokyonight" />
 </a>
@@ -9,7 +16,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeDSReis&layout=compact" />
 </a>
 
+
 <div style="display: inline_block"><br>
+  <h2>LINGUAGENS:</h2>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -25,7 +34,3 @@
   
 </div>
 
-- 👋 Hi, I’m @GuilhermeDsReis
-- 👀 Eu estou interessado em me tornar um Dev Front-End.
-- 🌱 Estudando Desenvolvimento web e gestão de T.I.
-- ⚡ Fun fact: Eu amo café.
